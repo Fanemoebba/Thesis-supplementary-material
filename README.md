@@ -20,3 +20,9 @@ Since Transmittance is caused by the amount of specific particles in the air, ea
 
 ### Filter selection
 To underline which filters that should be used for the study, the user can slect them to be plotted togheter with the MODTRAN data. This provides a greater understanding of which wavelenghts will be recieved by the sensor. 
+
+## MAIN Script
+
+## Intensity Profile
+
+## Alignment
